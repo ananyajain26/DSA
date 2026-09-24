@@ -24,3 +24,5 @@ function threeSum(arr) {
     return array1;
 }
 console.log(threeSum([-4, -1, -1, 0, 1, 2]));
+console.log(threeSum([0, 1, 1]));
+console.log(threeSum([0, 0, 0]));
